@@ -23,7 +23,7 @@ TNP
 
 \title{Entoni Dzejms Bar\\ \small{Seminarski rad u okviru kursa\\Tehničko i naučno pisanje\\ Matematički fakultet}}
 
-\author{Nikola Borjan, Lucija Kecic, Divna Micic, Milica Golubovic\\ kontakt email prvog, drugog (...) autora}
+\author{Nikola Borjan, Lucija Kecić, Divna Micić, Milica Golubović\\ kontakt email prvog, drugog (...) autora}
 \date{1. novembar 2019.}
 \maketitle
 
@@ -37,7 +37,7 @@ U ovom tekstu je ukratko prikazana osnovna forma seminarskog rada. Obratite paž
 \section{Entoni Dzejms Bar}
 \label{sec:uvod}
 
-Entoni Dzejms Bar, poznatiji kao Toni Bar ili Dzim Bar, rodjend je 24. septembra 1940. godine. Americki je dizajner programskih jezika, inzenjer softvera i izumitelj. Znacajno je doprineo Sistemom statisticke analize (SAS) (eng. Statistical Analysis System), automatizovao je optimizovanu potrosnju resursa drveta, kao i klasifikaociju medicinskih subjekata.
+Entoni Džejms Bar, poznatiji kao Toni Bar ili Džim Bar, rodjend je 24. septembra 1940. godine. Američki je dizajner programskih jezika, inženjer softvera i izumitelj. Značajno je doprineo Sistemom statističke analize (SAS) (eng. Statistical Analysis System), automatizovao je optimizovanu potrošnju resursa drveta, kao i klasifikaciju medicinskih subjekata.
 
 %Kada budete predavali seminarski rad, imenujete datoteke tako da sadrže temu seminarskog rada, kao i prezimena članova grupe. Predaja seminarskih radova biće isključivo preko veb forme, a NE slanjem mejla. Link na formu će biti dat u okviru obaveštenja na strani kursa. Vodite računa da prilikom predavanja seminarskog rada predate samo one fajlove koji su neophodni za ponovno generisanje pdf datoteke. To znači da pomoćne fajlove, kao što su .log, .out, .blg, .toc, .aux i slično, \textbf{ne treba predavati}.
 
